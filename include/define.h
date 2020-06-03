@@ -23,6 +23,6 @@
 #define ID_VZ 6
 
 //Définition des communications UART
-#define Serial_xbee Serial1
+#define Serial_xbee Serial3
 
 #endif
